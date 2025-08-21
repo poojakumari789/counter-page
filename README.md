@@ -27,7 +27,7 @@ It allows you to *increase, decrease, and reset* the counter value with smooth U
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view project](https://poojakumari789.github.io/counter-app/)
+👉 [Click here to view project](https://poojakumari789.github.io/counter-page/)
 
 ---
 
